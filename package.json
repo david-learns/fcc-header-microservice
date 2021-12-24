@@ -1,0 +1,29 @@
+{
+	"name": "request_header",
+	"version": "0.0.1",
+	"description": "API project for freeCodeCamp",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js",
+		"dev": ""
+	},
+	"dependencies": {
+		"express": "*",
+		"cors": "*",
+		"dotenv": "*"
+	},
+	"devDependencies": {
+		"nodemon": "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:david-learns/fcc-header-microservice.git"
+	},
+	"keywords": [
+		"request header parser microservice",
+		"freecodecamp",
+		"node",
+		"express"
+	],
+	"license": "MIT"
+}
